@@ -11,7 +11,7 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'Testing Out Creating Lessons on Work Laptop'
+title: 'Annaliese testing out lessons for the millionth time'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2023-05-11'
@@ -27,7 +27,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/buoyant-barnacle'
+source: 'https://github.com/annaliesemg/buoyant-barnacle'
 
 # Default branch of your lesson
 branch: 'main'
@@ -58,17 +58,17 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
