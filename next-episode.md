@@ -24,7 +24,46 @@ Here you type in text of what you want to explain to the learners, and a near ov
 
 The good thing about the Workbench template is that it allows you to have different 'pop-up' sections, if you will. An example of each follows:
 
+:::::::: callout
+This is a callout block which can be used to highlight keypoints.
+::::::::
 
+::::::::::: testimonial
+I'm **super duper** excited for _this template_ :grin:.
+
+-- Annaliese
+::::::::::::
+
+::::::::::::::: challenge
+
+## Lame Joke
+
+Q: What do you call a cow in a tornado?
+
+:::::::: solution
+
+A: A milkshake.
+::::::::
+:::::::::::::::::
+
+You can also try showing how code works and presenting them in code blocks by using three backticks.
+
+```
+thing = "python"
+print("this is a {} code block".format(thing))
+```
+
+Or do specifically say which language we are using:
+
+```R
+thing <- "mortadella"
+print("this is a {}code block".format(thing))
+```
+
+
+```output
+This is an example R code block.
+```
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
